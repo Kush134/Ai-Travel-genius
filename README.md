@@ -18,7 +18,6 @@ An intelligent travel planning platform that uses Google ADK (Agent Development 
 - [Datadog Observability](#datadog-observability)
 - [Traffic Generator](#traffic-generator)
 - [Deployment](#deployment)
-- [License](#license)
 
 ---
 
