@@ -537,12 +537,6 @@ logging.basicConfig(level=logging.DEBUG)
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
-
----
-
 ## 🙏 Acknowledgments
 
 Built for the **AI Partner Catatyst Hackathon 2025** with full trace-based observability.
